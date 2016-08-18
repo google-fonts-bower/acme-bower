@@ -1,0 +1,17 @@
+{
+    "name": "acme-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Huerta Tipogr\u00e1fica"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/acme-bower.git"
+    },
+    "description": "Acme font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
